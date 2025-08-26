@@ -4,7 +4,7 @@
 
 **Project Summary:** UniCrypt is a Web3 platform that unifies campus services by linking student ID cards to a blockchain wallet, enabling secure, decentralized transactions for payments, event ticketing, and physical access control.
 
-**[Devpost link]([https://devpost.com/software/safesys](https://devpost.com/software/unicrypt-zl3k4o))**
+[Devpost Link](https://devpost.com/software/unicrypt-zl3k4o)
 
 ---
 
