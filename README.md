@@ -22,8 +22,6 @@
 
 ## Image Gallery & Demonstration
 
-*(A GIF demonstrating the mobile app interacting with the IoT hardware is highly recommended here.)*
-
 <p align="center">
   <img src="https://github.com/m-aziz1/hacked-2025/blob/main/assets/unicrypt-payment-machine.jpg" alt="Payment IoT Device" width="48%" />
   <img src="https://github.com/m-aziz1/hacked-2025/blob/main/assets/unicrypt-access-device.jpg" alt=" Access/Attendance Verification IoT Device" width="48%" />
